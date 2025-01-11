@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "9fa5",
+      "cityName": "Mantralayam",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-12-19T07:43:02.490Z",
+      "notes": "very devotional city. This is the place where sri raghavendra swamy mutt is there",
+      "position": {
+        "lat": "15.93888192165063",
+        "lng": "77.42340087890625"
+      }
+    },
+    {
+      "id": "22c1",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-19T08:36:33.359Z",
+      "notes": "very good football team they have",
+      "position": {
+        "lat": "40.38002840251183",
+        "lng": "-3.6694335937500004"
+      }
+    },
+    {
+      "id": "9729",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-12-19T10:42:44.996Z",
+      "notes": "very good city",
+      "position": {
+        "lat": "38.70694605159386",
+        "lng": "-9.135131835937502"
+      }
+    },
+    {
+      "id": "d630",
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-12-19T10:43:06.384Z",
+      "notes": "India's Capital city\n",
+      "position": {
+        "lat": "28.58452171937042",
+        "lng": "77.23388671875"
+      }
+    },
+    {
+      "id": "35df",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-12-19T10:50:34.533Z",
+      "notes": "wonderful city. Eiffel tower is very good",
+      "position": {
+        "lat": "48.821332549646655",
+        "lng": "2.3181152343750004"
+      }
+    }
+  ]
+}
