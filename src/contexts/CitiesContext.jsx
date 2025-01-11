@@ -6,7 +6,7 @@ import {
   useCallback,
 } from "react";
 
-const URL = "https://worldwise-ten-sigma.vercel.app";
+const URL = "http://localhost:3000";
 const CitiesContext = createContext();
 
 const initialState = {
